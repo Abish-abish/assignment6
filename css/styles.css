@@ -1,0 +1,28 @@
+/* Author:Abish
+Date:24-4-2024 */
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+:root{
+    --bs-primary: #000000;
+
+}
+.btn-primary{
+    background-color: var(--bs-primary);
+}
+.section-wrap1 {
+    background-image: url('../assets/bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
